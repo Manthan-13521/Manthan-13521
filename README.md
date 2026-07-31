@@ -45,14 +45,16 @@ I enjoy building software that is:
 
 ## ⭐ Flagship Project
 
-### [🌊 AquaSync](https://github.com/Manthan-13521/Mordern-Buisness-Management)
+### [🌊 AquaSync](https://github.com/Manthan-13521/AquaSync-Showcase)
+
+> **Note:** Production implementation is maintained in a private repository. This links to the public architectural showcase.
 
 **Production-grade multi-tenant SaaS for swimming pools, hostels, and businesses.**
 
 Engineered for high reliability with a strict distributed architecture. Features real-time billing idempotency (`LedgerCycle` distributed locks), circuit breakers (`opossum`) for external payment gateways, and a Dead-Letter Queue for webhook replay.
 
 **Tech Stack:** `Next.js 16` • `MongoDB` • `Redis` • `Razorpay` • `Twilio`  
-[Explore Repository](https://github.com/Manthan-13521/Mordern-Buisness-Management) · [Live Demo](https://modern-businesses-management.vercel.app/)
+[Explore Showcase](https://github.com/Manthan-13521/AquaSync-Showcase) · [Live Demo](https://modern-businesses-management.vercel.app/)
 
 <br/>
 
