@@ -124,21 +124,21 @@ I am an AI Engineer who designs and ships **production-grade systems** where com
 <table>
   <tr>
     <td width="33%" align="center">
-      <b><a href="https://github.com/Manthan-13521/Jarvis" style="color:#22d3ee;text-decoration:none">Jarvis — AION OS</a></b><br/>
+      <b><a href="https://github.com/Manthan-13521/Jarvis-AI-Assistant" style="color:#22d3ee;text-decoration:none">Jarvis AI Assistant</a></b><br/>
       Voice-first AI companion for Android with contextual memory, Bluetooth earbud integration, and smart device control.<br/><br/>
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square" alt="Kotlin"/>
       <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=flat-square" alt="Android"/>
       <img src="https://img.shields.io/badge/AI-Agent-6366f1?style=flat-square" alt="AI Agent"/>
     </td>
     <td width="33%" align="center">
-      <b><a href="https://github.com/Manthan-13521/PinchType" style="color:#22d3ee;text-decoration:none">PinchType</a></b><br/>
+      <b><a href="https://github.com/Manthan-13521/PinchType-Virtual-Keyboard" style="color:#22d3ee;text-decoration:none">PinchType Virtual Keyboard</a></b><br/>
       Floating virtual keyboard for macOS with glass HUD, driven by hand tracking, autocomplete, and edge snapping.<br/><br/>
       <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white&style=flat-square" alt="Swift"/>
       <img src="https://img.shields.io/badge/macOS-0f172a?logo=apple&logoColor=white&style=flat-square" alt="macOS"/>
       <img src="https://img.shields.io/badge/Vision-Hand%20Tracking-22d3ee?style=flat-square" alt="Vision"/>
     </td>
     <td width="33%" align="center">
-      <b><a href="https://github.com/Manthan-13521/RestoOs" style="color:#22d3ee;text-decoration:none">RestoOS</a></b><br/>
+      <b><a href="https://github.com/Manthan-13521/RestoOS-Enterprise-Platform" style="color:#22d3ee;text-decoration:none">RestoOS Enterprise Platform</a></b><br/>
       Enterprise restaurant operating system — orders, tables, live kitchen display, billing, payments, and engagement.<br/><br/>
       <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square" alt="Next.js"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript"/>
@@ -147,21 +147,21 @@ I am an AI Engineer who designs and ships **production-grade systems** where com
   </tr>
   <tr>
     <td width="33%" align="center">
-      <b><a href="https://github.com/Manthan-13521/Car_Raceing-" style="color:#22d3ee;text-decoration:none">GestureKart</a></b><br/>
+      <b><a href="https://github.com/Manthan-13521/GestureKart-AI-Racing" style="color:#22d3ee;text-decoration:none">GestureKart AI Racing</a></b><br/>
       Hand-gesture racing games — steer with your webcam via MediaPipe, plus a full kart racing arcade mode.<br/><br/>
       <img src="https://img.shields.io/badge/MediaPipe-FF6D00?style=flat-square" alt="MediaPipe"/>
       <img src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white&style=flat-square" alt="Three.js"/>
       <img src="https://img.shields.io/badge/WebGL-990024?style=flat-square" alt="WebGL"/>
     </td>
     <td width="33%" align="center">
-      <b><a href="https://github.com/Manthan-13521/Luxe-AI" style="color:#22d3ee;text-decoration:none">Luxe-AI</a></b><br/>
+      <b><a href="https://github.com/Manthan-13521/LuxeGate-Airport-AI" style="color:#22d3ee;text-decoration:none">LuxeGate Airport AI</a></b><br/>
       Biometric airport lounge entry — facial recognition with booking and payment validation in under a second.<br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python"/>
       <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square" alt="FastAPI"/>
       <img src="https://img.shields.io/badge/Computer%20Vision-22d3ee?style=flat-square" alt="CV"/>
     </td>
     <td width="33%" align="center">
-      <b><a href="https://github.com/Manthan-13521/Work_Force" style="color:#22d3ee;text-decoration:none">WorkForce</a></b><br/>
+      <b><a href="https://github.com/Manthan-13521/WorkForge-Recruitment-Platform" style="color:#22d3ee;text-decoration:none">WorkForge Recruitment</a></b><br/>
       Blue-collar hiring platform connecting industrial workers with verified employers, payments and OTP auth.<br/><br/>
       <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square" alt="Next.js"/>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" alt="PostgreSQL"/>
@@ -170,20 +170,20 @@ I am an AI Engineer who designs and ships **production-grade systems** where com
   </tr>
   <tr>
     <td width="33%" align="center">
-      <b><a href="https://github.com/Manthan-13521/NexusOne-AI" style="color:#22d3ee;text-decoration:none">NexusOne-AI</a></b><br/>
+      <b><a href="https://github.com/Manthan-13521/NexusOne-Business-Agent" style="color:#22d3ee;text-decoration:none">NexusOne Business Agent</a></b><br/>
       AI infrastructure operating system — multi-module orchestration platform where every building has a brain.<br/><br/>
       <img src="https://img.shields.io/badge/AI%20Infrastructure-6366f1?style=flat-square" alt="AI Infra"/>
       <img src="https://img.shields.io/badge/Orchestration-22d3ee?style=flat-square" alt="Orchestration"/>
     </td>
     <td width="33%" align="center">
-      <b><a href="https://github.com/Manthan-13521/Mordern-Buisness-Management" style="color:#22d3ee;text-decoration:none">AquaSync</a></b><br/>
+      <b><a href="https://github.com/Manthan-13521/AquaSync-Business-Platform" style="color:#22d3ee;text-decoration:none">AquaSync Business Platform</a></b><br/>
       Production-grade multi-tenant SaaS platform for facility and business management with real-time operations.<br/><br/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript"/>
       <img src="https://img.shields.io/badge/Multi--tenant-0B827A?style=flat-square" alt="Multi-tenant"/>
       <img src="https://img.shields.io/badge/SaaS-22d3ee?style=flat-square" alt="SaaS"/>
     </td>
     <td width="33%" align="center">
-      <b><a href="https://github.com/Manthan-13521/VisionI_Ink" style="color:#22d3ee;text-decoration:none">VisionI·Ink</a></b><br/>
+      <b><a href="https://github.com/Manthan-13521/VisionInk-Hand-Tracking" style="color:#22d3ee;text-decoration:none">VisionInk Hand Tracking</a></b><br/>
       Vision-AI web application powered by MediaPipe Tasks for real-time computer vision in the browser.<br/><br/>
       <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square" alt="Next.js"/>
       <img src="https://img.shields.io/badge/MediaPipe-FF6D00?style=flat-square" alt="MediaPipe"/>
@@ -192,7 +192,7 @@ I am an AI Engineer who designs and ships **production-grade systems** where com
   </tr>
 </table>
 
-> **More:** [Monster_Game](https://github.com/Manthan-13521/Monster_Game) — hand-tracking shooter · [Dots_and_Boxes](https://github.com/Manthan-13521/Dots_and_Boxes) — real-time multiplayer · [StickMan_Game](https://github.com/Manthan-13521/StickMan_Game) — multiplayer fighting arena
+> **More:** [GestureBlaster AI](https://github.com/Manthan-13521/GestureBlaster-AI) — hand-tracking shooter · [Dots-and-Boxes](https://github.com/Manthan-13521/Dots-and-Boxes-Game) — real-time multiplayer · [StickmanArena](https://github.com/Manthan-13521/StickmanArena-Game) — multiplayer fighting arena
 
 <br/>
 
@@ -334,7 +334,7 @@ I am an AI Engineer who designs and ships **production-grade systems** where com
     </td>
     <td width="25%" align="center">
       <b>📱 Android AI</b><br/>
-      <i>Jarvis — AION OS</i><br/>
+      <i>Jarvis AI Assistant</i><br/>
       <span style="color:#64748b">Voice-first AI companion</span>
     </td>
     <td width="25%" align="center">
@@ -366,7 +366,7 @@ I am an AI Engineer who designs and ships **production-grade systems** where com
     </td>
     <td width="25%" align="center">
       <b>☁️ Enterprise</b><br/>
-      <i>NexusOne-AI</i><br/>
+      <i>NexusOne Business Agent</i><br/>
       <span style="color:#64748b">AI infrastructure OS</span>
     </td>
   </tr>
@@ -377,12 +377,12 @@ I am an AI Engineer who designs and ships **production-grade systems** where com
 ## 📦 Repository Showcase
 
 <p align="center">
-  <a href="https://github.com/Manthan-13521/Jarvis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan-13521&repo=Jarvis&theme=tokyonight&hide_border=true" alt="Jarvis"/></a>
-  <a href="https://github.com/Manthan-13521/PinchType"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan-13521&repo=PinchType&theme=tokyonight&hide_border=true" alt="PinchType"/></a>
-  <a href="https://github.com/Manthan-13521/RestoOs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan-13521&repo=RestoOs&theme=tokyonight&hide_border=true" alt="RestoOS"/></a>
-  <a href="https://github.com/Manthan-13521/Car_Raceing-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan-13521&repo=Car_Raceing-&theme=tokyonight&hide_border=true" alt="GestureKart"/></a>
-  <a href="https://github.com/Manthan-13521/Luxe-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan-13521&repo=Luxe-AI&theme=tokyonight&hide_border=true" alt="Luxe-AI"/></a>
-  <a href="https://github.com/Manthan-13521/Work_Force"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan-13521&repo=Work_Force&theme=tokyonight&hide_border=true" alt="WorkForce"/></a>
+  <a href="https://github.com/Manthan-13521/Jarvis-AI-Assistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan-13521&repo=Jarvis-AI-Assistant&theme=tokyonight&hide_border=true" alt="Jarvis"/></a>
+  <a href="https://github.com/Manthan-13521/PinchType-Virtual-Keyboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan-13521&repo=PinchType-Virtual-Keyboard&theme=tokyonight&hide_border=true" alt="PinchType"/></a>
+  <a href="https://github.com/Manthan-13521/RestoOS-Enterprise-Platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan-13521&repo=RestoOS-Enterprise-Platform&theme=tokyonight&hide_border=true" alt="RestoOS"/></a>
+  <a href="https://github.com/Manthan-13521/GestureKart-AI-Racing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan-13521&repo=GestureKart-AI-Racing&theme=tokyonight&hide_border=true" alt="GestureKart"/></a>
+  <a href="https://github.com/Manthan-13521/LuxeGate-Airport-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan-13521&repo=LuxeGate-Airport-AI&theme=tokyonight&hide_border=true" alt="Luxe-AI"/></a>
+  <a href="https://github.com/Manthan-13521/WorkForge-Recruitment-Platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan-13521&repo=WorkForge-Recruitment-Platform&theme=tokyonight&hide_border=true" alt="WorkForce"/></a>
 </p>
 
 <br/>
