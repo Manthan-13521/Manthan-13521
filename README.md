@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- ═══════════════════════ HERO BANNER ═══════════════════════ -->
-<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" style="max-width:100%;height:auto;display:block;border-radius:16px;box-shadow:0 0 60px rgba(34,211,238,0.15)">
+<svg width="1200" height="340" viewBox="0 0 1200 340" fill="none" xmlns="http://www.w3.org/2000/svg" style="max-width:100%;height:auto;display:block;border-radius:16px;box-shadow:0 0 60px rgba(34,211,238,0.15)">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse">
       <stop stop-color="#020617"/>
       <stop offset="0.5" stop-color="#0b1526"/>
       <stop offset="1" stop-color="#020617"/>
@@ -35,10 +35,10 @@
     </pattern>
   </defs>
 
-  <rect width="1200" height="320" fill="url(#bg)"/>
-  <rect width="1200" height="320" fill="url(#grid)"/>
-  <rect width="1200" height="320" fill="url(#glow1)"/>
-  <rect width="1200" height="320" fill="url(#glow2)"/>
+  <rect width="1200" height="340" fill="url(#bg)"/>
+  <rect width="1200" height="340" fill="url(#grid)"/>
+  <rect width="1200" height="340" fill="url(#glow1)"/>
+  <rect width="1200" height="340" fill="url(#glow2)"/>
 
   <g opacity="0.25" fill="none" stroke="#0ea5e9" stroke-width="1.2">
     <path d="M 1060 60 l 25 -14 25 14 v 28 l -25 14 -25 -14 z"/>
@@ -58,13 +58,15 @@
     <circle cx="620" cy="45" r="1.5"/>
   </g>
 
-  <text x="600" y="128" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="54" font-weight="800" fill="url(#titleGrad)" letter-spacing="8">MANTHAN JAISWAL</text>
+  <text x="600" y="118" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="52" font-weight="800" fill="url(#titleGrad)" letter-spacing="8">MANTHAN JAISWAL</text>
 
-  <text x="600" y="176" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="600" fill="#38bdf8" letter-spacing="9">AI ENGINEER &nbsp;•&nbsp; COMPUTER VISION &nbsp;•&nbsp; MULTI-AGENT AI</text>
+  <text x="600" y="170" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="19" font-weight="700" fill="#38bdf8" letter-spacing="3">BUILDING AI SYSTEMS • ENTERPRISE SAAS • COMPUTER VISION</text>
 
-  <text x="600" y="222" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#94a3b8" letter-spacing="2">Building intelligent systems at the intersection of AI, Vision &amp; Enterprise</text>
+  <text x="600" y="210" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#94a3b8" letter-spacing="2">Software Engineer | AI &amp; Full Stack Developer</text>
 
-  <rect x="0" y="306" width="1200" height="2" fill="url(#sweep)"/>
+  <text x="600" y="248" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#64748b" letter-spacing="1">Shipped systems at the intersection of AI, Vision &amp; Enterprise</text>
+
+  <rect x="0" y="328" width="1200" height="2" fill="url(#sweep)"/>
 </svg>
 
 <br/>
@@ -77,8 +79,6 @@
 <!-- ═══════════════════════ STATUS BADGES ═══════════════════════ -->
 <img src="https://komarev.com/ghpvc/?username=Manthan-13521&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/Manthan-13521?style=for-the-badge&color=6366f1&logo=github&logoColor=white" alt="GitHub Followers" />
-<img src="https://img.shields.io/github/stars/Manthan-13521?style=for-the-badge&color=f59e0b&logo=github&logoColor=white" alt="GitHub Stars" />
-<img src="https://img.shields.io/badge/STATUS-Available%20for%20AI%20%26%20Vision%20Projects-22d3ee?style=for-the-badge" alt="Status" />
 
 </div>
 
@@ -89,6 +89,27 @@
 I am an AI Engineer who designs and ships **production-grade systems** where computer vision, agentic AI, and enterprise software converge — from hand-gesture racing games and biometric lounge access to multi-tenant SaaS platforms and voice-first Android assistants.
 
 > Not demos. Not prototypes. **Shipped systems.**
+
+<br/>
+
+## 🚀 Current Focus
+
+- Building **enterprise-grade AI platforms**
+- Developing **multimodal computer vision systems**
+- Designing **scalable SaaS architectures**
+- Exploring **agentic AI and autonomous workflows**
+
+<br/>
+
+## 💡 Engineering Philosophy
+
+I enjoy building software that is:
+
+- **Scalable**
+- **Reliable**
+- **Maintainable**
+- **User-centric**
+- **Production-ready**
 
 <br/>
 
@@ -111,8 +132,26 @@ I am an AI Engineer who designs and ships **production-grade systems** where com
       Agentic AI · Multi-Agent Systems · Computer Vision · Gesture Recognition · LLM Orchestration · Edge AI
     </td>
     <td width="50%" valign="top">
-      <b>🚀 Current Focus</b><br/>
+      <b>🚀 Shipping</b><br/>
       Production-grade AI products — real-time vision pipelines, on-device intelligence, and enterprise LLM governance.
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## ⭐ Flagship Project
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" style="padding:20px" width="100%">
+      <b style="font-size:18px"><a href="https://github.com/Manthan-13521/AquaSync-Business-Platform" style="color:#22d3ee;text-decoration:none">💧 AquaSync Business Platform</a></b><br/><br/>
+      <span style="color:#94a3b8">Production-grade multi-tenant SaaS platform for facility and business management —<br/>real-time operations, role-based access, and enterprise billing.</span><br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square" alt="Next.js"/>
+      <img src="https://img.shields.io/badge/Multi--tenant-0B827A?style=flat-square" alt="Multi-tenant"/>
+      <img src="https://img.shields.io/badge/SaaS-Enterprise-22d3ee?style=flat-square" alt="SaaS"/>
+      <img src="https://img.shields.io/badge/Production-Ready-4ade80?style=flat-square" alt="Production Ready"/>
     </td>
   </tr>
 </table>
@@ -123,76 +162,55 @@ I am an AI Engineer who designs and ships **production-grade systems** where com
 
 <table>
   <tr>
-    <td width="33%" align="center">
-      <b><a href="https://github.com/Manthan-13521/Jarvis-AI-Assistant" style="color:#22d3ee;text-decoration:none">Jarvis AI Assistant</a></b><br/>
+    <td width="50%" align="center">
+      <b><a href="https://github.com/Manthan-13521/Jarvis-AI-Assistant" style="color:#22d3ee;text-decoration:none">AION OS — Jarvis</a></b><br/>
       Voice-first AI companion for Android with contextual memory, Bluetooth earbud integration, and smart device control.<br/><br/>
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square" alt="Kotlin"/>
       <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=flat-square" alt="Android"/>
       <img src="https://img.shields.io/badge/AI-Agent-6366f1?style=flat-square" alt="AI Agent"/>
     </td>
-    <td width="33%" align="center">
+    <td width="50%" align="center">
       <b><a href="https://github.com/Manthan-13521/PinchType-Virtual-Keyboard" style="color:#22d3ee;text-decoration:none">PinchType Virtual Keyboard</a></b><br/>
-      Floating virtual keyboard for macOS with glass HUD, driven by hand tracking, autocomplete, and edge snapping.<br/><br/>
+      Floating virtual keyboard for macOS with glass HUD, five layouts, autocomplete, and edge snapping.<br/><br/>
       <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white&style=flat-square" alt="Swift"/>
       <img src="https://img.shields.io/badge/macOS-0f172a?logo=apple&logoColor=white&style=flat-square" alt="macOS"/>
-      <img src="https://img.shields.io/badge/Vision-Hand%20Tracking-22d3ee?style=flat-square" alt="Vision"/>
-    </td>
-    <td width="33%" align="center">
-      <b><a href="https://github.com/Manthan-13521/RestoOS-Enterprise-Platform" style="color:#22d3ee;text-decoration:none">RestoOS Enterprise Platform</a></b><br/>
-      Enterprise restaurant operating system — orders, tables, live kitchen display, billing, payments, and engagement.<br/><br/>
-      <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square" alt="Next.js"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript"/>
-      <img src="https://img.shields.io/badge/SaaS-Enterprise-22d3ee?style=flat-square" alt="SaaS"/>
+      <img src="https://img.shields.io/badge/Native-AppKit-22d3ee?style=flat-square" alt="AppKit"/>
     </td>
   </tr>
   <tr>
-    <td width="33%" align="center">
+    <td width="50%" align="center">
+      <b><a href="https://github.com/Manthan-13521/VisionInk-Hand-Tracking" style="color:#22d3ee;text-decoration:none">VisionInk Hand Tracking</a></b><br/>
+      Browser drawing canvas controlled entirely by hand gestures — 12+ gestures via MediaPipe Tasks Vision.<br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square" alt="Next.js"/>
+      <img src="https://img.shields.io/badge/MediaPipe-FF6D00?style=flat-square" alt="MediaPipe"/>
+      <img src="https://img.shields.io/badge/Real--time%20CV-22d3ee?style=flat-square" alt="Real-time CV"/>
+    </td>
+    <td width="50%" align="center">
       <b><a href="https://github.com/Manthan-13521/GestureKart-AI-Racing" style="color:#22d3ee;text-decoration:none">GestureKart AI Racing</a></b><br/>
       Hand-gesture racing games — steer with your webcam via MediaPipe, plus a full kart racing arcade mode.<br/><br/>
       <img src="https://img.shields.io/badge/MediaPipe-FF6D00?style=flat-square" alt="MediaPipe"/>
       <img src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white&style=flat-square" alt="Three.js"/>
       <img src="https://img.shields.io/badge/WebGL-990024?style=flat-square" alt="WebGL"/>
     </td>
-    <td width="33%" align="center">
-      <b><a href="https://github.com/Manthan-13521/LuxeGate-Airport-AI" style="color:#22d3ee;text-decoration:none">LuxeGate Airport AI</a></b><br/>
-      Biometric airport lounge entry — facial recognition with booking and payment validation in under a second.<br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square" alt="FastAPI"/>
-      <img src="https://img.shields.io/badge/Computer%20Vision-22d3ee?style=flat-square" alt="CV"/>
-    </td>
-    <td width="33%" align="center">
-      <b><a href="https://github.com/Manthan-13521/WorkForge-Recruitment-Platform" style="color:#22d3ee;text-decoration:none">WorkForge Recruitment</a></b><br/>
-      Blue-collar hiring platform connecting industrial workers with verified employers, payments and OTP auth.<br/><br/>
-      <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square" alt="Next.js"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" alt="PostgreSQL"/>
-      <img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square" alt="Razorpay"/>
-    </td>
   </tr>
   <tr>
-    <td width="33%" align="center">
-      <b><a href="https://github.com/Manthan-13521/NexusOne-Business-Agent" style="color:#22d3ee;text-decoration:none">NexusOne Business Agent</a></b><br/>
-      AI infrastructure operating system — multi-module orchestration platform where every building has a brain.<br/><br/>
-      <img src="https://img.shields.io/badge/AI%20Infrastructure-6366f1?style=flat-square" alt="AI Infra"/>
-      <img src="https://img.shields.io/badge/Orchestration-22d3ee?style=flat-square" alt="Orchestration"/>
-    </td>
-    <td width="33%" align="center">
-      <b><a href="https://github.com/Manthan-13521/AquaSync-Business-Platform" style="color:#22d3ee;text-decoration:none">AquaSync Business Platform</a></b><br/>
-      Production-grade multi-tenant SaaS platform for facility and business management with real-time operations.<br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript"/>
-      <img src="https://img.shields.io/badge/Multi--tenant-0B827A?style=flat-square" alt="Multi-tenant"/>
-      <img src="https://img.shields.io/badge/SaaS-22d3ee?style=flat-square" alt="SaaS"/>
-    </td>
-    <td width="33%" align="center">
-      <b><a href="https://github.com/Manthan-13521/VisionInk-Hand-Tracking" style="color:#22d3ee;text-decoration:none">VisionInk Hand Tracking</a></b><br/>
-      Vision-AI web application powered by MediaPipe Tasks for real-time computer vision in the browser.<br/><br/>
+    <td width="50%" align="center">
+      <b><a href="https://github.com/Manthan-13521/RestoOS-Enterprise-Platform" style="color:#22d3ee;text-decoration:none">RestoOS Enterprise Platform</a></b><br/>
+      Enterprise restaurant operating system — orders, tables, live kitchen display, billing, payments, and engagement.<br/><br/>
       <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square" alt="Next.js"/>
-      <img src="https://img.shields.io/badge/MediaPipe-FF6D00?style=flat-square" alt="MediaPipe"/>
-      <img src="https://img.shields.io/badge/Real--time%20CV-22d3ee?style=flat-square" alt="Real-time CV"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/SaaS-Enterprise-22d3ee?style=flat-square" alt="SaaS"/>
+    </td>
+    <td width="50%" align="center">
+      <b style="color:#94a3b8">More Systems</b><br/><br/>
+      <a href="https://github.com/Manthan-13521/LuxeGate-Airport-AI" style="color:#22d3ee;text-decoration:none">LuxeGate Airport AI</a> — biometric lounge entry<br/>
+      <a href="https://github.com/Manthan-13521/WorkForge-Recruitment-Platform" style="color:#22d3ee;text-decoration:none">WorkForge Recruitment</a> — production hiring platform<br/>
+      <a href="https://github.com/Manthan-13521/GestureBlaster-AI" style="color:#22d3ee;text-decoration:none">GestureBlaster AI</a> — hand-tracking shooter<br/>
+      <a href="https://github.com/Manthan-13521/Dots-and-Boxes-Game" style="color:#22d3ee;text-decoration:none">Dots &amp; Boxes</a> — real-time multiplayer<br/>
+      <a href="https://github.com/Manthan-13521/StickmanArena-Game" style="color:#22d3ee;text-decoration:none">StickmanArena</a> — multiplayer fighting arena
     </td>
   </tr>
 </table>
-
-> **More:** [GestureBlaster AI](https://github.com/Manthan-13521/GestureBlaster-AI) — hand-tracking shooter · [Dots-and-Boxes](https://github.com/Manthan-13521/Dots-and-Boxes-Game) — real-time multiplayer · [StickmanArena](https://github.com/Manthan-13521/StickmanArena-Game) — multiplayer fighting arena
 
 <br/>
 
@@ -267,59 +285,14 @@ I am an AI Engineer who designs and ships **production-grade systems** where com
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manthan-13521&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </p>
 
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manthan-13521/Manthan-13521/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manthan-13521/Manthan-13521/output/snake.svg">
-  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Manthan-13521/Manthan-13521/output/snake-dark.svg">
-</picture>
-
 <br/>
 
-## 🎯 Current Focus
+## 🌱 Currently Exploring
 
-<p align="center">
-  <svg width="620" height="260" viewBox="0 0 620 260" fill="none" xmlns="http://www.w3.org/2000/svg" style="max-width:100%;height:auto">
-    <defs>
-      <linearGradient id="barGrad" x1="0" y1="0" x2="620" y2="0" gradientUnits="userSpaceOnUse">
-        <stop stop-color="#0891b2"/>
-        <stop offset="1" stop-color="#6366f1"/>
-      </linearGradient>
-    </defs>
-    <g font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="600">
-      <text x="0" y="24" fill="#22d3ee">AGENTIC AI &amp; MULTI-AGENT SYSTEMS</text>
-      <rect x="0" y="34" width="620" height="12" rx="6" fill="#1e293b"/>
-      <rect x="0" y="34" width="620" height="12" rx="6" fill="url(#barGrad)">
-        <animate attributeName="width" values="0;620" dur="2s" fill="freeze"/>
-      </rect>
-
-      <text x="0" y="74" fill="#22d3ee">COMPUTER VISION &amp; GESTURE RECOGNITION</text>
-      <rect x="0" y="84" width="620" height="12" rx="6" fill="#1e293b"/>
-      <rect x="0" y="84" width="558" height="12" rx="6" fill="url(#barGrad)">
-        <animate attributeName="width" values="0;558" dur="2s" fill="freeze"/>
-      </rect>
-
-      <text x="0" y="124" fill="#22d3ee">ENTERPRISE AI &amp; LLM GOVERNANCE</text>
-      <rect x="0" y="134" width="620" height="12" rx="6" fill="#1e293b"/>
-      <rect x="0" y="134" width="527" height="12" rx="6" fill="url(#barGrad)">
-        <animate attributeName="width" values="0;527" dur="2s" fill="freeze"/>
-      </rect>
-
-      <text x="0" y="174" fill="#22d3ee">ANDROID &amp; ON-DEVICE AI</text>
-      <rect x="0" y="184" width="620" height="12" rx="6" fill="#1e293b"/>
-      <rect x="0" y="184" width="496" height="12" rx="6" fill="url(#barGrad)">
-        <animate attributeName="width" values="0;496" dur="2s" fill="freeze"/>
-      </rect>
-
-      <text x="0" y="224" fill="#22d3ee">SYSTEM DESIGN &amp; AI INFRASTRUCTURE</text>
-      <rect x="0" y="234" width="620" height="12" rx="6" fill="#1e293b"/>
-      <rect x="0" y="234" width="496" height="12" rx="6" fill="url(#barGrad)">
-        <animate attributeName="width" values="0;496" dur="2s" fill="freeze"/>
-      </rect>
-    </g>
-  </svg>
-</p>
+- **Multi-Agent AI** — orchestration, tool use, and autonomous workflows
+- **Enterprise AI Security** — governance, sandboxing, and auditability
+- **Computer Vision** — real-time on-device inference and gesture recognition
+- **Distributed Systems** — scalable, resilient service architecture
 
 <br/>
 
@@ -329,22 +302,22 @@ I am an AI Engineer who designs and ships **production-grade systems** where com
   <tr>
     <td width="25%" align="center">
       <b>🏆 Hackathons</b><br/>
-      <i>Luxe-AI — AI lounge entry system</i><br/>
+      <i>LuxeGate — AI lounge entry system</i><br/>
       <span style="color:#64748b">Winning entry, biometric + AI</span>
     </td>
     <td width="25%" align="center">
       <b>📱 Android AI</b><br/>
-      <i>Jarvis AI Assistant</i><br/>
+      <i>AION OS — Jarvis</i><br/>
       <span style="color:#64748b">Voice-first AI companion</span>
     </td>
     <td width="25%" align="center">
       <b>⌨️ Desktop AI</b><br/>
       <i>PinchType — macOS</i><br/>
-      <span style="color:#64748b">Hand-tracked virtual keyboard</span>
+      <span style="color:#64748b">Virtual keyboard, 5 layouts</span>
     </td>
     <td width="25%" align="center">
       <b>🌐 Full Stack</b><br/>
-      <i>RestoOS · WorkForce · AquaSync</i><br/>
+      <i>RestoOS · WorkForge · AquaSync</i><br/>
       <span style="color:#64748b">Production SaaS platforms</span>
     </td>
   </tr>
@@ -377,12 +350,12 @@ I am an AI Engineer who designs and ships **production-grade systems** where com
 ## 📦 Repository Showcase
 
 <p align="center">
-  <a href="https://github.com/Manthan-13521/Jarvis-AI-Assistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan-13521&repo=Jarvis-AI-Assistant&theme=tokyonight&hide_border=true" alt="Jarvis"/></a>
+  <a href="https://github.com/Manthan-13521/Jarvis-AI-Assistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan-13521&repo=Jarvis-AI-Assistant&theme=tokyonight&hide_border=true" alt="AION OS"/></a>
   <a href="https://github.com/Manthan-13521/PinchType-Virtual-Keyboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan-13521&repo=PinchType-Virtual-Keyboard&theme=tokyonight&hide_border=true" alt="PinchType"/></a>
-  <a href="https://github.com/Manthan-13521/RestoOS-Enterprise-Platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan-13521&repo=RestoOS-Enterprise-Platform&theme=tokyonight&hide_border=true" alt="RestoOS"/></a>
+  <a href="https://github.com/Manthan-13521/VisionInk-Hand-Tracking"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan-13521&repo=VisionInk-Hand-Tracking&theme=tokyonight&hide_border=true" alt="VisionInk"/></a>
   <a href="https://github.com/Manthan-13521/GestureKart-AI-Racing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan-13521&repo=GestureKart-AI-Racing&theme=tokyonight&hide_border=true" alt="GestureKart"/></a>
-  <a href="https://github.com/Manthan-13521/LuxeGate-Airport-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan-13521&repo=LuxeGate-Airport-AI&theme=tokyonight&hide_border=true" alt="Luxe-AI"/></a>
-  <a href="https://github.com/Manthan-13521/WorkForge-Recruitment-Platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan-13521&repo=WorkForge-Recruitment-Platform&theme=tokyonight&hide_border=true" alt="WorkForce"/></a>
+  <a href="https://github.com/Manthan-13521/RestoOS-Enterprise-Platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan-13521&repo=RestoOS-Enterprise-Platform&theme=tokyonight&hide_border=true" alt="RestoOS"/></a>
+  <a href="https://github.com/Manthan-13521/LuxeGate-Airport-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan-13521&repo=LuxeGate-Airport-AI&theme=tokyonight&hide_border=true" alt="LuxeGate"/></a>
 </p>
 
 <br/>
@@ -398,20 +371,16 @@ I am an AI Engineer who designs and ships **production-grade systems** where com
 
 <br/>
 
-## 💬 Quote
-
-<p align="center">
-  <i style="color:#22d3ee;font-size:16px">"The future is not waiting for us — it is built by the people bold enough to ship intelligence into everyday systems."</i>
-</p>
-
-<br/>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,6,12&height=120&section=footer" alt="Footer Wave"/>
 
 <br/>
 
-**© 2026 Manthan Jaiswal** — Built with TypeScript, Python, and a lot of AI.
+<img src="https://komarev.com/ghpvc/?username=Manthan-13521&style=flat-square&color=0891b2&label=Visitors" alt="Visitor Counter" />
+
+<br/>
+
+**© 2026 Manthan Jaiswal** — Building software that solves real-world problems, one project at a time.
 
 </div>
